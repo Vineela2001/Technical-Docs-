@@ -39,8 +39,8 @@ This is ***Bold and Italic*** text
  to signup to gthub[clickhere](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
  
  **To insert a table**
- |Name|Branch|Rollno|
- |----|------|------|
+ |Name|Branch|Rollno|  
+ |----|------|------|  
  |vinni|cse|44|
  |akki|cse|42|
 
